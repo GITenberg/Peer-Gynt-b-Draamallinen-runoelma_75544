@@ -1,0 +1,44 @@
+_repo: Peer-Gynt-b-Draamallinen-runoelma_75544
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Otto_Manninen
+    - https://fi.wikipedia.org/wiki/Otto_Manninen
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    aliases:
+    - Ibsen, Enrico
+    - Ibsen, Henryk
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henrik_Ibsen
+    - https://no.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75544'
+language: fi
+pgterms:marc905: 20230624000754ibsen
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Peer Gynt : $b Draamallinen runoelma'
+url: http://www.gutenberg.org/ebooks/75544
