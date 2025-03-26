@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Otto_Manninen
     - https://fi.wikipedia.org/wiki/Otto_Manninen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Henrik_Ibsen
     - https://no.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75544#Peer-Gynt-b-Draamallinen-runoelma
 gutenberg_issued: '2025-03-06'
 gutenberg_type: Text
 identifiers:
